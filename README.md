@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer Faruk Kahraman
 - 👀 I’m interested in sports, swimming, football, table tennis
-- 🌱 I am currently learning javascript, angular and react.
+- 🌱 I am currently learning machine learning
 - 💞️ I’m regularly read a book and watch movie
 - 📫 How to reach me omerfarukkahramn@gmail.com
 
