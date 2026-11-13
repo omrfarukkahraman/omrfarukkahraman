@@ -1,6 +1,6 @@
 # Ömer Faruk Kahraman
 
-**Software Engineer · Full Stack, Mobile & Applied AI**
+**Computer Engineer · Flutter, React & Applied AI · Open to junior roles**
 
 I’m a Computer Engineering graduate based in **Şanlıurfa, Türkiye**. I build software products end to end — from interfaces and APIs to mobile apps, simulations and AI-powered features.
 
@@ -25,15 +25,6 @@ A haptic-first communication MVP built around custom vibration patterns, real-ti
 
 **Flutter · Firebase · FCM · Riverpod · GoRouter**
 
-### 🤖 [Autonomous Cave Exploration & Mapping Robot](https://github.com/omrfarukkahraman/otonom-magara-kesif-ve-haritalama-robotu)
-A Python simulation with procedural cave generation, LiDAR-like sensing, grid mapping, autonomous exploration and stuck-recovery behavior.
-
-**Python · Pygame · Autonomous Navigation · Simulation**
-
-### 🌲 [EcoGuard](https://github.com/omrfarukkahraman/ecoguard-dagitik-akustik-algilama-ile-ormanlari-koruma)
-A wireless sensor-network simulation for acoustic event detection, multi-hop routing, packet visualization and route recovery when nodes fail.
-
-**Python · Pygame · Graph Routing · Wireless Sensor Networks**
 
 ### 📍 [Seydişehir 42](https://github.com/omrfarukkahraman/seydisehir-42)
 A local business and coupon platform with authentication, role-based user flows, merchant features and community content.
